@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Acil Servis",
+    "equipments": [
+      {
+        "id": 3,
+        "name": "Cerrahi Maske",
+        "dateOfSupply": "2020-01-01T00:00:00",
+        "quantity": 9,
+        "unitPrice": 15,
+        "usageRate": 80,
+        "clinicId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cildiye",
+    "equipments": []
+  },
+  {
+    "id": 3,
+    "name": "Dermatoloji ve Kozmetoloji",
+    "equipments": []
+  },
+  {
+    "id": 4,
+    "name": "El Cerrahisi ve Mikro Cerrahi",
+    "equipments": []
+  },
+  {
+    "id": 5,
+    "name": "Fizik Tedavi ve Rehabilitasyon",
+    "equipments": []
+  }
+]
