@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Entities;
 using Entities.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
@@ -13,9 +14,9 @@ namespace WebAPI.Controllers
     public class ClinicsController : ControllerBase
     {
         IClinicService _clinicService;
-        IStringLocalizer<ClinicsController> _localizer;
+        IStringLocalizer<SharedResource> _localizer;
 
-        public ClinicsController(IClinicService clinicService, IStringLocalizer<ClinicsController> localizer)
+        public ClinicsController(IClinicService clinicService, IStringLocalizer<SharedResource> localizer)
         {
             _clinicService = clinicService;
             _localizer = localizer;
@@ -31,7 +32,7 @@ namespace WebAPI.Controllers
         [HttpGet("getallclinicswithequipments")]
         public IActionResult GetAllClinicWithEquipments(string sort, int currentPage ,int pageSize)
         {
-          
+            var loc = _localizer["Name"];
             if (currentPage == 0)
                 currentPage = 1;
             if (pageSize == 0)
