@@ -7,3 +7,5 @@ yerli ve yabancı kaynakları tüketip yapmaya calıstım. Ancak Integration Tes
 yazılmış cleancode örneklerini pek bulamadım. Api url'lerine istek atıp gelen Succcess status
 kodunu almaya çalıştım ancak sanırım startup'ı ayağa kaldıramadğım için getasync metodu 
 api url ine ulaşamayıp internalserver hatası veriyor. Aşamaya çalışacağım.
+
+Not:20.09.2021 tarihinde düzenlendi.
