@@ -21,7 +21,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace CustomerAPI
+namespace WebAPI
 {
     public class Startup
     {
