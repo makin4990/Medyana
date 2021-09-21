@@ -9,6 +9,7 @@ Gereksinimler
 Uygulama içerisinde Klinik bilgileri listelenecek. Arama kutucuna yazılan metin bilgisi ile istenilen klinik aranabilecektir. Liste üzerinde sıralama ve sayfalama özelliği olacaktır. İstendiği takdirde yeni bir klinik tanımı yapılabilecektir. Daha önce tanımlanmış olan klinik bilgileri düzenlenip, silinebilecektir. Klinik bilgisi tanımlamak için aşağıdaki alanlar yeterli olacaktır.
 
 • Sistem tarafından verilecek otomatik artışlı ve ayırt edici bir numara
+
 • Klinik Adı
 
 **Ekipman**
