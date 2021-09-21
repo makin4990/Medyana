@@ -1,4 +1,4 @@
-**Hastane Ekipman Projesi**
+:pushpin:**Hastane Ekipman Projesi**:pushpin:
 
 Yeni kurulmuş Medyana isminde özel bir hastane klinik bazında ekipmanlarını takip etmek için bir uygulama oluşturmak istemektedir.
 
@@ -12,7 +12,7 @@ Uygulama içerisinde Klinik bilgileri listelenecek. Arama kutucuna yazılan met
 
 • Klinik Adı
 
-**Ekipman**
+:pushpin:**Ekipman**:pushpin:
 
 Medyana hastanesi bir ekranda Ekipmanların listesini görmek istemektedir. Klinik bilgisinde olduğu gibi yeni ekipman tanımı, düzenleme ve silme işlemleri yapabilecektir. Listede sıralama, sayfalama ve arama özellikleri olacaktır. Ekipman tanımı yapabilmek için gerekli alanlar aşağıdaki gibidir.
 
@@ -30,7 +30,7 @@ Medyana hastanesi bir ekranda Ekipmanların listesini görmek istemektedir. Kli
 
 • Yukarıda belirtilmiş olan Klinik Bilgisi (Zorunlu)
 
-**Back-end NET Developer**
+:pushpin:**Back-end NET Developer**:pushpin:
 
 • Veriler SQL Server üzerinde tutulacaktır.
 
